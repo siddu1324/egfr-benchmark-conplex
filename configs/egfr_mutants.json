@@ -1,0 +1,72 @@
+{
+  "reference": {
+    "name": "EGFR kinase-domain construct placeholder",
+    "uniprot": "P00533",
+    "note": "Replace sequence_start and sequence with the exact construct used in your ConPLex experiment. If using residues 669-1210, sequence_start should be 669. If using 689-1022, sequence_start should be 689."
+  },
+  "sequence_start": 689,
+  "sequence": "VAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGICLTSTVQLITQLMPFGCLLDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAARNVLVKTPQHVKITDFGLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSYGVTVWELMTFGSKPYDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPKFRELIIEFSKMARDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQQG",
+  "mutants": [
+    "WT",
+    "G719C",
+    "G719A",
+    "G719S",
+    "L858R",
+    "T790M",
+    "C797S",
+    "L861Q",
+    "S768I",
+    "L858R_T790M",
+    "L858R_C797S",
+    "L858R_T790M_C797S"
+  ],
+  "mutation_aliases": {
+    "WT": [
+      "WT",
+      "wild type",
+      "wild-type",
+      "wildtype",
+      "EGFR"
+    ],
+    "G719C": [
+      "G719C"
+    ],
+    "G719A": [
+      "G719A"
+    ],
+    "G719S": [
+      "G719S"
+    ],
+    "L858R": [
+      "L858R"
+    ],
+    "T790M": [
+      "T790M"
+    ],
+    "C797S": [
+      "C797S"
+    ],
+    "L861Q": [
+      "L861Q"
+    ],
+    "S768I": [
+      "S768I"
+    ],
+    "L858R_T790M": [
+      "L858R/T790M",
+      "L858R T790M",
+      "T790M/L858R",
+      "T790M L858R"
+    ],
+    "L858R_C797S": [
+      "L858R/C797S",
+      "L858R C797S",
+      "C797S/L858R"
+    ],
+    "L858R_T790M_C797S": [
+      "L858R/T790M/C797S",
+      "L858R T790M C797S",
+      "T790M/C797S/L858R"
+    ]
+  }
+}

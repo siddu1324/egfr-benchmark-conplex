@@ -1,0 +1,33 @@
+{
+  "reference": {
+    "name": "EGFR_HUMAN canonical full-length sequence",
+    "uniprot": "P00533",
+    "note": "V3 fetches canonical full-length EGFR sequence from UniProt and uses UniProt numbering."
+  },
+  "use_uniprot_sequence": true,
+  "sequence_start": 1,
+  "mutants": [
+    "WT", "G719C", "G719A", "G719S", "L718Q", "E709K", "S768I", "V769L",
+    "T790M", "C797S", "L792H", "L861Q", "L858R", "L858R_T790M",
+    "L858R_C797S", "T790M_C797S", "L858R_T790M_C797S"
+  ],
+  "mutation_aliases": {
+    "WT": ["wild type", "wild-type", "wildtype", "WT EGFR", "EGFR WT", "EGFR wild type", "EGFR wild-type"],
+    "G719C": ["G719C", "Gly719Cys"],
+    "G719A": ["G719A", "Gly719Ala"],
+    "G719S": ["G719S", "Gly719Ser"],
+    "L718Q": ["L718Q", "Leu718Gln"],
+    "E709K": ["E709K", "Glu709Lys"],
+    "S768I": ["S768I", "Ser768Ile"],
+    "V769L": ["V769L", "Val769Leu"],
+    "T790M": ["T790M", "Thr790Met"],
+    "C797S": ["C797S", "Cys797Ser"],
+    "L792H": ["L792H", "Leu792His"],
+    "L861Q": ["L861Q", "Leu861Gln"],
+    "L858R": ["L858R", "Leu858Arg"],
+    "L858R_T790M": ["L858R/T790M", "L858R T790M", "L858R-T790M", "L858R_T790M", "T790M/L858R", "T790M L858R", "T790M-L858R", "T790M_L858R"],
+    "L858R_C797S": ["L858R/C797S", "L858R C797S", "L858R-C797S", "L858R_C797S", "C797S/L858R"],
+    "T790M_C797S": ["T790M/C797S", "T790M C797S", "T790M-C797S", "T790M_C797S", "C797S/T790M"],
+    "L858R_T790M_C797S": ["L858R/T790M/C797S", "L858R T790M C797S", "L858R-T790M-C797S", "L858R_T790M_C797S", "T790M/C797S/L858R", "T790M C797S L858R"]
+  }
+}
