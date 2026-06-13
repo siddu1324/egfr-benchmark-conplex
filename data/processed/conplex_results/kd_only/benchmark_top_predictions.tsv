@@ -1,0 +1,101 @@
+target_id	molecule_id	conplex_score	mutation_label	pAffinity_exp	affinity_value_nm_median	n_exp_measurements	affinity_types	assay_examples
+EGFR_L861Q	CHEMBL553	0.9814008	L861Q	8.920818753952375	1.2	2	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_WT	CHEMBL553	0.98127866	WT	9.154901959985745	0.7	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_G719C	CHEMBL553	0.9808315	G719C	9.070581074285707	0.85	2	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_G719S	CHEMBL553	0.98042893	G719S	9.2839966563652	0.52	2	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_L858R	CHEMBL553	0.97983885	L858R	9.013228265733757	0.97	2	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_T790M	CHEMBL31965	0.97702646	T790M	9.77642098432889	0.19	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_L858R	CHEMBL31965	0.9759834	L858R	9.619788758288394	0.24	2	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_T790M	CHEMBL553	0.9757551	T790M	6.7875591816844665	165.0	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_G719C	CHEMBL31965	0.9755323	G719C	9.886056647693165	0.13	2	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_G719S	CHEMBL31965	0.97544014	G719S	9.721246399047171	0.19	2	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_L861Q	CHEMBL31965	0.9750867	L861Q	9.657577319177792	0.22	2	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_L858R_T790M	CHEMBL939	0.97505283	L858R_T790M	7.962573502059376	10.9	3	Kd	Binding affinity to EGFR with L858R/T790M mutant | Binding affinity to human EGFR L858R/T790M mutant expressed in Escherichia coli BL21 incubated for 1 hr | Binding affinity to human EGFR L858R/T790M mutant (696 to 1022 residues) expressed in baculovirus/insect cells assessed as dissociation constant by equilibrium fluorescence quenching method
+EGFR_WT	CHEMBL31965	0.974611	WT	9.721246399047171	0.19	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_T790M	CHEMBL939	0.97406495	T790M	7.397940008672037	40.0	3	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain | Binding affinity to human EGFR T790M mutant (696 to 1022 residues) expressed in baculovirus/insect cells assessed as dissociation constant by equilibrium fluorescence quenching method
+EGFR_L858R	CHEMBL939	0.9726186	L858R	9.0268721464003	0.94	5	Kd	Binding affinity to EGFR with L858R mutant | Binding constant for EGFR(L858R) kinase domain | Binding affinity to human wild-type partial length EGFR L858R mutant (R669 to V1011 residues) expressed in bacterial expression system by kinomescan assay
+EGFR_G719C	CHEMBL1173655	0.97254586	G719C	10.0	0.1	1	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_L858R	CHEMBL1173655	0.9721706	L858R	9.69897000433602	0.2	1	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_G719S	CHEMBL939	0.97213024	G719S	8.958607314841775	1.1	2	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_T790M	CHEMBL1173655	0.97203714	T790M	9.086638739915504	0.855	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_WT	CHEMBL1173655	0.97193503	WT	9.602059991327964	0.25	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_G719S	CHEMBL1173655	0.9718869	G719S	9.721246399047171	0.19	1	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_L861Q	CHEMBL939	0.97186387	L861Q	8.853871964321762	1.4	2	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_G719C	CHEMBL939	0.97177017	G719C	8.698970004336019	2.0	2	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_WT	CHEMBL939	0.970991	WT	8.619788758288394	2.4	5	Kd	Binding affinity to wild type EGFR | Binding affinity to wild type human EGFR expressed in Escherichia coli BL21 incubated for 1 hr | Binding affinity to human wild-type partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by kinomescan assay
+EGFR_L861Q	CHEMBL1173655	0.97085583	L861Q	9.638272163982409	0.23	1	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_G719S	CHEMBL607707	0.96750295	G719S	9.3767507096021	0.42	1	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_G719C	CHEMBL607707	0.9674051	G719C	9.619788758288394	0.24	1	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_L858R	CHEMBL607707	0.96703243	L858R	9.387216143280265	0.41	1	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_L861Q	CHEMBL607707	0.96562964	L861Q	9.356547323513812	0.44	1	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_WT	CHEMBL554	0.95639265	WT	7.958607314841775	11.0	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_G719C	CHEMBL554	0.9552015	G719C	9.036212172654444	0.92	2	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_L861Q	CHEMBL554	0.95516336	L861Q	8.920818753952375	1.2	2	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_L858R	CHEMBL554	0.95377743	L858R	8.55284196865778	2.8	3	Kd	Binding constant for EGFR(L858R) kinase domain | Inhibition of recombinant human partial length EGFR L858R mutant (669 to 1011 residues) expressed in bacterial expression system by competitive binding assay
+EGFR_G719S	CHEMBL554	0.95377004	G719S	8.67778070526608	2.1	2	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_WT	CHEMBL304929	0.95291656	WT	9.259637310505756	0.55	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_WT	CHEMBL3752204	0.95004684	WT	9.602059991327964	0.25	1	Kd	Binding affinity to wild type human EGFR expressed in Escherichia coli BL21 incubated for 1 hr
+EGFR_T790M	CHEMBL554	0.9480276	T790M	5.532750774378217	5430.0	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_L858R_T790M	CHEMBL3752204	0.9468341	L858R_T790M	8.958607314841775	1.1	1	Kd	Binding affinity to human EGFR L858R/T790M mutant expressed in Escherichia coli BL21 incubated for 1 hr
+EGFR_WT	CHEMBL180022	0.9415817	WT	8.958607314841775	1.1	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_G719C	CHEMBL180022	0.94151014	G719C	9.431798275933003	0.37	1	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_L858R	CHEMBL180022	0.94082487	L858R	9.173925197299171	0.67	1	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_L861Q	CHEMBL180022	0.94030285	L861Q	9.431798275933003	0.37	1	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_G719S	CHEMBL180022	0.93939877	G719S	9.040958607678906	0.91	1	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_T790M	CHEMBL180022	0.9370353	T790M	8.196272488392665	14.25	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_L858R	CHEMBL202721	0.9197281	L858R	6.055517327849832	880.0	1	Kd	Binding affinity to human partial length EGFR (R669 to V1011 residues) L858R mutant expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_WT	CHEMBL5394686	0.91947055	WT	9.69897000433602	0.2	1	Kd	Inhibition of wild type human EGFR assessed as dissociation constant by KINOMEScan assay
+EGFR_L861Q	CHEMBL14762	0.9189815	L861Q	5.0	10000.0	1	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_L858R	CHEMBL14762	0.9185899	L858R	5.0	10000.0	1	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_G719S	CHEMBL14762	0.9178412	G719S	5.0	10000.0	1	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_WT	CHEMBL202721	0.917418	WT	6.657577319177793	220.0	1	Kd	Binding affinity to wild type human EGFR partial length (R669 to V1011 residues) expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_G719C	CHEMBL14762	0.91711235	G719C	5.0	10000.0	1	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_WT	CHEMBL4468521	0.90492433	WT	7.275724130399211	53.0	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_WT	CHEMBL4467033	0.90276206	WT	8.886056647693163	1.3	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_WT	CHEMBL4446630	0.90250474	WT	5.214670164989233	6100.0	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_T790M	CHEMBL101253	0.8851997	T790M	5.0	10000.0	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_WT	CHEMBL309682	0.88497984	WT	7.657577319177793	22.0	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_G719S	CHEMBL101253	0.8822788	G719S	5.0	10000.0	2	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_L861Q	CHEMBL101253	0.88204896	L861Q	5.0	10000.0	2	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_L858R	CHEMBL101253	0.88100684	L858R	5.0	10000.0	2	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_G719C	CHEMBL101253	0.8808526	G719C	5.0	10000.0	2	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_T790M	CHEMBL558752	0.8783485	T790M	5.0	10000.0	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_L858R	CHEMBL558752	0.8748249	L858R	5.0	10000.0	2	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_L861Q	CHEMBL558752	0.8730004	L861Q	5.0	10000.0	2	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_G719C	CHEMBL558752	0.8716877	G719C	5.0	10000.0	2	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_G719S	CHEMBL558752	0.8712436	G719S	5.0	10000.0	2	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_L858R	CHEMBL5633878	0.8672365	L858R	4.522878745280337	30000.0	1	Kd	Binding affinity to human partial length EGFR (R669 to V1011 residues) L858R mutant expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_WT	CHEMBL5633878	0.8640092	WT	4.522878745280337	30000.0	1	Kd	Binding affinity to wild type human EGFR partial length (R669 to V1011 residues) expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_L858R	CHEMBL5632112	0.8605638	L858R	6.045757490560675	900.0	1	Kd	Binding affinity to human partial length EGFR (R669 to V1011 residues) L858R mutant expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_WT	CHEMBL5632112	0.8574128	WT	6.356547323513812	440.0	1	Kd	Binding affinity to wild type human EGFR partial length (R669 to V1011 residues) expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_L858R	CHEMBL5173715	0.85048264	L858R	8.537602002101044	2.9	1	Kd	Binding affinity to human partial length EGFR (R669 to V1011 residues) L858R mutant expressed in bacterial expression system assessed as immobilized ligand binding by competitive binding assay
+EGFR_WT	CHEMBL5173715	0.84871244	WT	8.193820026016112	6.4	1	Kd	Binding affinity to human wild type partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system assessed as immobilized ligand binding by competitive binding assay
+EGFR_L861Q	CHEMBL261849	0.8450091	L861Q	5.0	10000.0	2	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_L858R	CHEMBL261849	0.8433256	L858R	5.0	10000.0	2	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_G719C	CHEMBL261849	0.84250665	G719C	5.0	10000.0	2	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_G719S	CHEMBL261849	0.8408382	G719S	5.0	10000.0	2	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_T790M	CHEMBL261849	0.8394943	T790M	5.0	10000.0	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_L858R	CHEMBL5187547	0.8347427	L858R	8.366531544420413	4.3	1	Kd	Binding affinity to human partial length EGFR (R669 to V1011 residues) L858R mutant expressed in bacterial expression system assessed as immobilized ligand binding by competitive binding assay
+EGFR_WT	CHEMBL5187547	0.8326577	WT	8.148741651280925	7.1	1	Kd	Binding affinity to human wild type partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system assessed as immobilized ligand binding by competitive binding assay
+EGFR_L858R	CHEMBL5181237	0.8172055	L858R	7.301029995663981	50.0	1	Kd	Binding affinity to human partial length EGFR (R669 to V1011 residues) L858R mutant expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_L858R	CHEMBL5632436	0.8155439	L858R	6.6777807052660805	210.0	1	Kd	Binding affinity to human partial length EGFR (R669 to V1011 residues) L858R mutant expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_WT	CHEMBL5181237	0.814312	WT	7.173925197299173	67.0	1	Kd	Binding affinity to wild type human EGFR partial length (R669 to V1011 residues) expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_L858R	CHEMBL4442491	0.8004245	L858R	8.366531544420413	4.3	1	Kd	Binding affinity to human wild-type partial length EGFR L858R mutant (R669 to V1011 residues) expressed in bacterial expression system by kinomescan assay
+EGFR_WT	CHEMBL4442491	0.7982855	WT	8.522878745280337	3.0	1	Kd	Binding affinity to human wild-type partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by kinomescan assay
+EGFR_T790M	CHEMBL1336	0.7963516	T790M	5.0	10000.0	3	Kd	Binding affinity to EGFR L858R,T790M mutant | Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_L858R	CHEMBL5200160	0.7941148	L858R	6.167491087293763	680.0	1	Kd	Binding affinity to human partial length EGFR (R669 to V1011 residues) L858R mutant expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_WT	CHEMBL5200160	0.79130614	WT	7.060480747381382	87.0	1	Kd	Binding affinity to wild type human EGFR partial length (R669 to V1011 residues) expressed in bacterial expression system assessed as dissociation constant by DiscoverX kinomescan assay
+EGFR_G719S	CHEMBL1336	0.7912817	G719S	5.0	10000.0	3	Kd	Binding constant for EGFR(G719S) kinase domain | Binding affinity to EGFR G719S mutant
+EGFR_L858R	CHEMBL1336	0.79044986	L858R	5.0	10000.0	3	Kd	Binding constant for EGFR(L858R) kinase domain | Binding affinity to EGFR L858R mutant
+EGFR_L861Q	CHEMBL1336	0.7893498	L861Q	5.0	10000.0	3	Kd	Binding constant for EGFR(L861Q) kinase domain | Binding affinity to EGFR L861Q mutant
+EGFR_G719C	CHEMBL1336	0.7890622	G719C	5.0	10000.0	3	Kd	Binding constant for EGFR(G719C) kinase domain | Binding affinity to EGFR G719C mutant
+EGFR_WT	CHEMBL4447797	0.78613234	WT	7.494850021680094	32.0	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_WT	CHEMBL1089203	0.78563476	WT	6.4089353929735005	390.0	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_G719S	CHEMBL440084	0.7799609	G719S	5.0	10000.0	1	Kd	Binding constant for EGFR(G719S) kinase domain
+EGFR_G719C	CHEMBL440084	0.77888757	G719C	5.0	10000.0	1	Kd	Binding constant for EGFR(G719C) kinase domain
+EGFR_L861Q	CHEMBL440084	0.77867687	L861Q	5.0	10000.0	1	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_L858R	CHEMBL440084	0.7786095	L858R	5.0	10000.0	1	Kd	Binding constant for EGFR(L858R) kinase domain
+EGFR_WT	CHEMBL4440586	0.7738799	WT	8.744727494896694	1.8	1	Kd	Binding affinity to wild-type human partial length EGFR (R669 to V1011 residues) expressed in bacterial expression system by Kinomescan method
+EGFR_T790M	CHEMBL573339	0.7663777	T790M	5.0	10000.0	2	Kd	Binding constant for EGFR(L858R,T790M) kinase domain | Binding constant for EGFR(T790M) kinase domain
+EGFR_L861Q	CHEMBL278041	0.76308805	L861Q	5.638272163982407	2300.0	1	Kd	Binding constant for EGFR(L861Q) kinase domain
+EGFR_G719S	CHEMBL278041	0.76279783	G719S	5.721246399047171	1900.0	1	Kd	Binding constant for EGFR(G719S) kinase domain
